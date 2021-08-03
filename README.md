@@ -53,7 +53,7 @@ Cada página contém instruções do que deve contemplar. OBS: rotas, controller
 -   [Laravel Debugbar](https://github.com/barryvdh/laravel-debugbar).
 
 
-##PLUS
+## PLUS
 - Cursos
   - Adicionar uma foto
   - Adicionar as aulas que preetence ao curso
